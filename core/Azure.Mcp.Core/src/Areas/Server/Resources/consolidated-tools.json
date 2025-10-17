@@ -793,6 +793,7 @@
         "azmcp_eventgrid_subscription_list",
         "azmcp_servicebus_queue_details",
         "azmcp_servicebus_topic_details",
+        "azmcp_servicebus_topic_subscription_details",
         "azmcp_eventhubs_namespace_get",
         "azmcp_eventhubs_eventhub_get",
         "azmcp_eventhubs_eventhub_consumergroup_get"
